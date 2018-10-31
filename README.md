@@ -47,13 +47,13 @@ This is a repo for projects done while reading William S. Vincent's book Django 
 4.	Rename Django containing folder
 5.	Create app
 6.	Configure project settings for app
-7.	**Migrate to create SQLDatabase
-8.	Create an app model
-9.	Makemigrations and Migrate
-10.	Createsuperuser
-11.	Configure app admin
-12.	Create an app view
-13.	Create a template**
+7.	**Migrate to create SQLDatabase**
+8.	**Create an app model**
+9.	**Makemigrations and Migrate**
+10.	**Createsuperuser**
+11.	**Configure app admin**
+12.	**Create an app view**
+13.	**Create a template**
 14.	Configure project settings for templates
 15.	Configure project urls for app urls
 16.	Configure app level urls for the app level views
