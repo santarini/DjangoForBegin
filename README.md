@@ -58,4 +58,30 @@ This is a repo for projects done while reading William S. Vincent's book Django 
 15.	Configure project urls for app urls
 16.	Configure app level urls for the app level views
 
+###### Chapter 4
+1.	Create new folder
+2.	Create new virtual environment in folder
+3.	Create new Django project
+4.	Rename Django containing folder
+5.  Create new app
+6.  Migrate
+7.  Configure project settings for app
+8.  Create app model
+9.  Makemigrations and migrate
+10. Create superuser
+11. Configure admin
+12. Configure app urls
+13. Configure project urls
+14. Create app view
+15. Create templates
+16. Configure project settings for templates
+17. Create static folder
+18. Create CSS subfolder
+19. Configure project settings for statics
+20. Create stylesheet
+21. Config templates to load static
+22. Config view for posts
+23. Create template for posts
+24. Config app urls for post view
+
 
