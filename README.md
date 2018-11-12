@@ -84,18 +84,18 @@ This is a repo for projects done while reading William S. Vincent's book Django 
 23.	Configure app urls for individual posts views
 
 ###### Chapter 5
-Configure base template for new posts
-Create app urls for new posts
-Create app views for new posts
-Create new posts template
-Add absolute url to app model
-Configure individual post template for edit posts
-Create template for edit posts
-Create app view for edit post
-Configure app urls for edit post
-Configure individual post template for delete posts
-Create template for delete posts
-Create app view for delete post
-Configure app urls for delete post
+- Configure base template for new posts
+- Create app urls for new posts
+- Create app views for new posts
+- Create new posts template
+- Add absolute url to app model
+- Configure individual post template for edit posts
+- Create template for edit posts
+- Create app view for edit post
+- Configure app urls for edit post
+- Configure individual post template for delete posts
+- Create template for delete posts
+- Create app view for delete post
+- Configure app urls for delete post
 
 
