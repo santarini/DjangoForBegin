@@ -64,25 +64,38 @@ This is a repo for projects done while reading William S. Vincent's book Django 
 3.	Create new Django project
 4.	Rename Django containing folder
 5.	Create new app
-6.	Migrate to create DB
-7.	Configure project settings for app
-8.	Create app model
-9.	Makemigrations and migrate
-10.	Create superuser
-11.	Configure admin
-12.	Create a templates folder
-13.	Configure project settings for templates
+6.	Create a templates folder
+7.	Create a static folder with CSS subfolder
+8.	Configure project settings for app, templates, and static
+9.	Migrate to create DB
+10.	Create app model
+11.	Makemigrations and migrate
+12.	Create superuser
+13.	Configure app admin
 14.	Create base template
 15.	Create extensible home template
 16.	Create an app view
-17.	Configure app urls
+17.	Create app urls
 18.	Configure project urls
-19.	Create static folder with CSS subfolder
-20.	Configure project settings for statics
-21.	Create stylesheet
-22.	Configure base template to load static
-23.	Create template for individual posts
-24.	Configure view for individual posts
-25.	Config app urls for individual posts views
+19.	Create stylesheet
+20.	Configure base template to load static
+21.	Create template for individual posts
+22.	Configure view for individual posts
+23.	Configure app urls for individual posts views
+
+###### Chapter 5
+Configure base template for new posts
+Create app urls for new posts
+Create app views for new posts
+Create new posts template
+Add absolute url to app model
+Configure individual post template for edit posts
+Create template for edit posts
+Create app view for edit post
+Configure app urls for edit post
+Configure individual post template for delete posts
+Create template for delete posts
+Create app view for delete post
+Configure app urls for delete post
 
 
