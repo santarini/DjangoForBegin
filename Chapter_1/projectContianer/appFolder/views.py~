@@ -1,6 +1,0 @@
-from django.http import HttpResponse
-
-def HomePageView(self):
-    return HttpResponse('This is your homepage.')
-
-# Create your views here.
