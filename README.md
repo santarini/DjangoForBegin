@@ -4,7 +4,9 @@
 
 This is a repo for projects done while reading William S. Vincent's book Django For Beginners.
 
-### Summary of steps in each chapter (less tests and deployment)
+### Summary of django specific steps in each chapter (less tests and deployment)
+
+###### Chapter 1: Inital Setup
 
 ###### Chapter 2: Hello world app
 
