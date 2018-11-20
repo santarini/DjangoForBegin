@@ -6,7 +6,7 @@ This is a repo for projects done while reading William S. Vincent's book Django 
 
 ### Summary of steps in each chapter (less tests and deployment)
 
-###### Chapter 2
+###### Chapter 2: Hello world app
 
 1.	Create new folder
 2.	Create new virtual environment in folder
@@ -18,7 +18,7 @@ This is a repo for projects done while reading William S. Vincent's book Django 
 8.	Configure project settings for app
 9.	Configure project urls for app url
 
-###### Chapter 3
+###### Chapter 3: Pages app
 
 1.	Create new folder
 2.	Create new virtual environment in folder
@@ -39,7 +39,7 @@ This is a repo for projects done while reading William S. Vincent's book Django 
 17.	Create a template
 18.	Extend template to other templates
 
-###### Chapter 4
+###### Chapter 4: Message board app
 
 1.	Create new folder
 2.	Create new virtual environment in folder
@@ -58,7 +58,7 @@ This is a repo for projects done while reading William S. Vincent's book Django 
 15.	Configure project urls for app urls
 16.	Configure app level urls for the app level views
 
-###### Chapter 5
+###### Chapter 5: Blog app
 1.	Create new folder
 2.	Create new virtual environment in folder
 3.	Create new Django project
@@ -83,7 +83,7 @@ This is a repo for projects done while reading William S. Vincent's book Django 
 22.	Configure view for individual posts
 23.	Configure app urls for individual posts views
 
-###### Chapter 6
+###### Chapter 6: Forms
 - Configure base template for new posts
 - Create app urls for new posts
 - Create app views for new posts
@@ -99,7 +99,7 @@ This is a repo for projects done while reading William S. Vincent's book Django 
 - Configure app urls for delete post
 
 
-###### Chapter 7
+###### Chapter 7: User Accounts
 - Configure project urls for account authentication
 - Make registration subfolder in templates folder
 - Create a login template
